@@ -1,4 +1,0 @@
-git add dummy.txt
-git status
-git restore --staged dummy.txt
-git status
